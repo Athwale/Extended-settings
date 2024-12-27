@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Extended settings</string>
+    <string name="app_name">Settings extended</string>
     <string name="howto">Howto</string>
     <string name="clear_output_files">Clear output files</string>
 </resources>
